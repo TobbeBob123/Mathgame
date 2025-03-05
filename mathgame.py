@@ -1,7 +1,7 @@
 Intro = "Kom til 50"
 v1 = 5
 v2 = 30
-v3 = "Hva må du legge til for at summen skal bli 50?"
+v3 = "Hva må du legge til for at summen skal bli 50? "
 v4 = v1 + v2
 
 print(Intro)

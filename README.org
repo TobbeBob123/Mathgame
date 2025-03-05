@@ -2,12 +2,10 @@
 #+author: Tobias Os Finsbøl
 #+auto_tangle: t
 
-* Math game
-** Make it to 50
+* Make it to 50
 
 * Content :toc:
-- [[#math-game][Math game]]
-  - [[#make-it-to-50][Make it to 50]]
+- [[#make-it-to-50][Make it to 50]]
 - [[#variable][Variable]]
 - [[#if-statment][if statment]]
 
@@ -17,7 +15,7 @@ Defind variable and do math for get it later in the code
 Intro = "Kom til 50"
 v1 = 5
 v2 = 30
-v3 = "Hva må du legge til for at summen skal bli 50?"
+v3 = "Hva må du legge til for at summen skal bli 50? "
 v4 = v1 + v2
 
 print(Intro)
