@@ -2,10 +2,10 @@
 #+author: Tobias Os Finsbøl
 #+auto_tangle: t
 
-* Make it to 50
+** Make it to 50
 
 * Content :toc:
-- [[#make-it-to-50][Make it to 50]]
+  - [[#make-it-to-50][Make it to 50]]
 - [[#variable][Variable]]
 - [[#if-statment][if statment]]
 
