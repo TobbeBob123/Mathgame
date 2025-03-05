@@ -2,12 +2,13 @@
 #+author: Tobias Os Finsbøl
 #+auto_tangle: t
 
-** Make it to 50
-
 * Content :toc:
-  - [[#make-it-to-50][Make it to 50]]
+- [[#make-it-to-50-what-is-this][Make it to 50. What is this?]]
 - [[#variable][Variable]]
 - [[#if-statment][if statment]]
+
+* Make it to 50. What is this?
+Game to get to 50
 
 * Variable
 Defind variable and do math for get it later in the code
